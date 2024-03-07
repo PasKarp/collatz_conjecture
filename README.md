@@ -3,4 +3,4 @@
 
 ## How to Execute
 ### Prerequisites
-Make sure you have Python installed on your machine. If not, download and install Python from python.org.
+Make sure you have Python installed on your machine. If not, download and install Python from [python.org](python.org).
