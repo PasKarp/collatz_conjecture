@@ -1,5 +1,3 @@
-from animation import *
-
 """
 Module: collatz_sequence
 
