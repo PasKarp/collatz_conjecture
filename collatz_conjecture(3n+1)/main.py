@@ -1,3 +1,16 @@
+from animation import *
+
+"""
+Module: collatz_sequence
+
+This module provides functions to calculate the Collatz sequence for a given number and update a dictionary with Collatz sequence information.
+
+Functions:
+    - calc(n): Calculate the next number in the Collatz sequence based on the given number.
+    - update_sequence_dict(seq_dict, current_number): Update the given dictionary with Collatz sequence information starting from the specified number.
+"""
+
+
 def calc(n):
     """
     Calculate the next number in the Collatz sequence based on the given number.
